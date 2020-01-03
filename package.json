@@ -1,0 +1,24 @@
+{
+  "name": "ica-pwa",
+  "version": "1.0.0",
+  "description": "Index to Creationist Arguments Progressive Web App",
+  "main": "scraper/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staticinteger/ICA-PWA.git"
+  },
+  "author": "Timothy Peacock",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/staticinteger/ICA-PWA/issues"
+  },
+  "homepage": "https://github.com/staticinteger/ICA-PWA#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
